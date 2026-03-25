@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file 2 content.
+=======
+this is file2 content.
+>>>>>>> a4ab28aa5cef13c6235d649324ddf94939537d82
